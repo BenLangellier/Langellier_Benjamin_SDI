@@ -8,4 +8,6 @@ alert(" my favorite number comes from the number I was given when I was a kid pl
 alert(" I like living in Illinois but would I like to move?");
 alert("My answers to each question are located inside of the console")
 
-console.log()
+console.log(myJob);
+console.log(19);
+console.log(desireToMove);
