@@ -1,6 +1,7 @@
- // javascript
+var muppetNames = ["Kermit", "Miss Piggy", "Gonzo", "Rizzo" ]; //index 0,1,2,3
 
- var age = 24;
- var isStudent = true;
- var firstName = "Ben";
- var phrase = 'Idon\'t know \n you\'ll have to talk with the professor';
+muppetNames[1] = "Rizzo";
+muppetNames[2] = "Fozzy";
+var num = 2;
+console.log(muppetNames[num]);
+
