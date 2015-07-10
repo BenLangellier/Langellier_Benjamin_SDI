@@ -1,7 +1,6 @@
  // javascript
 
- var age; //declaration
- age = 24; //definition
- //storage container = value
-
- car yearOfBirth = 1991; //declaring and defining on the same line
+ var age = 24;
+ var isStudent = true;
+ var firstName = "Ben";
+ var phrase = 'Idon\'t know \n you\'ll have to talk with the professor';
