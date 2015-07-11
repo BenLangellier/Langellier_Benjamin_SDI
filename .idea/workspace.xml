@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d45172ab-4dd6-4ea7-8890-5c67d6aadefa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prompt and Alert/js/script.js" afterPath="$PROJECT_DIR$/Prompt and Alert/js/script.js" />
-    </list>
+    <list default="true" id="d45172ab-4dd6-4ea7-8890-5c67d6aadefa" name="Default" comment="" />
     <ignored path="Langellier_Benjamin_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,7 +83,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2774" />
+    <option name="x" value="1180" />
     <option name="y" value="25" />
     <option name="width" value="1380" />
     <option name="height" value="1047" />
@@ -343,7 +341,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2774" y="25" width="1380" height="1047" extended-state="0" />
+    <frame x="1180" y="25" width="1380" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
