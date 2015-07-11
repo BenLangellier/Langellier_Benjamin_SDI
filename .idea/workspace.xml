@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d45172ab-4dd6-4ea7-8890-5c67d6aadefa" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Beginning JavaScript Walkthroughs/ch2_examp3.html" afterPath="" />
-    </list>
+    <list default="true" id="d45172ab-4dd6-4ea7-8890-5c67d6aadefa" name="Default" comment="" />
     <ignored path="Langellier_Benjamin_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ch2_examp4.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ch2_examp4.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Expressions/ch2_examp4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32397407">
+            <state vertical-scroll-proportion="-12.5">
               <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ch2_examp5.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions/ch2_examp5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3401728">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -58,6 +66,7 @@
         <option value="$PROJECT_DIR$/Langellier_Benjamin_Output_Assignment/OutputAssignment.html" />
         <option value="$PROJECT_DIR$/Beginning JavaScript Walkthroughs/ch2_examp3.html" />
         <option value="$PROJECT_DIR$/Expressions/ch2_examp4.html" />
+        <option value="$PROJECT_DIR$/Expressions/ch2_examp5.html" />
       </list>
     </option>
   </component>
@@ -396,8 +405,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions/ch2_examp4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32397407">
+        <state vertical-scroll-proportion="-12.5">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions/ch2_examp5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3401728">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
           <folding />
         </state>
       </provider>
