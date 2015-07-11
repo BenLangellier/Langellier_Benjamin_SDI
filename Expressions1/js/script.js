@@ -2,6 +2,8 @@
  * Created by BenLangellier on 7/10/15.
  */
 
-var yearBorn = 1991;
-var age = 2015 - yearBorn;
-console.log(age);
+//area of the triangle is half of the width times the height
+var width = 43;
+var height = 35;
+var area = width * height/2;
+console.log(area);
