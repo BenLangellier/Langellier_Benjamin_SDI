@@ -18,4 +18,4 @@ result = totalPizzas * slicesPizza / people;
 
 //Output
 
-
+console.log("Each person ate " + result + " " + "slices of pizza at the party");
