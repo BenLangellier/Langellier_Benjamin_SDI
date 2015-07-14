@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d45172ab-4dd6-4ea7-8890-5c67d6aadefa" name="Default" comment="" />
+    <list default="true" id="d45172ab-4dd6-4ea7-8890-5c67d6aadefa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_worksheet/js/Slice_of_Pie2.js" afterPath="$PROJECT_DIR$/Expressions_worksheet/js/Slice_of_Pie2.js" />
+    </list>
     <ignored path="Langellier_Benjamin_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,9 +26,11 @@
       <file leaf-file-name="Slice_of_Pie2.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Expressions_worksheet/js/Slice_of_Pie2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22105263">
-              <caret line="16" column="109" selection-start-line="16" selection-start-column="109" selection-end-line="16" selection-end-column="109" />
-              <folding />
+            <state vertical-scroll-proportion="0.33157894">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -599,9 +603,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_worksheet/js/Slice_of_Pie2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22105263">
-          <caret line="16" column="109" selection-start-line="16" selection-start-column="109" selection-end-line="16" selection-end-column="109" />
-          <folding />
+        <state vertical-scroll-proportion="0.33157894">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
