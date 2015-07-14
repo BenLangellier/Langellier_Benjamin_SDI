@@ -18,4 +18,4 @@ result = totalPizzas * slicesPizza % people; //final calculation for the amount 
 
 //Output
 
-console.log("Sparky got  " + result + " " + "slices of pizza"); //output to show user how much pizza sparky will get
+console.log("Sparky got " + result + " " + "slices of pizza"); //output to show user how much pizza sparky will get
