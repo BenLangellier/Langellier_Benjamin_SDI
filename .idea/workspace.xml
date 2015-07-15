@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d45172ab-4dd6-4ea7-8890-5c67d6aadefa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lastname_Firstname_Expressions_Assignment/js/java.js" afterPath="$PROJECT_DIR$/Lastname_Firstname_Expressions_Assignment/js/java.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lastname_Firstname_Expressions_Assignment/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lastname_Firstname_Expressions_Assignment/js/java.js" afterPath="" />
     </list>
     <ignored path="Langellier_Benjamin_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,23 +25,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="java.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lastname_Firstname_Expressions_Assignment/js/java.js">
+        <entry file="file://$PROJECT_DIR$/Langellier_Benjamin_Expressions_Assignment/js/java.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.5344418">
               <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lastname_Firstname_Expressions_Assignment/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -89,6 +80,7 @@
         <option value="$PROJECT_DIR$/Expressions_worksheet/js/discount.js" />
         <option value="$PROJECT_DIR$/Lastname_Firstname_Expressions_Assignment/index.html" />
         <option value="$PROJECT_DIR$/Lastname_Firstname_Expressions_Assignment/js/java.js" />
+        <option value="$PROJECT_DIR$/Langellier_Benjamin_Expressions_Assignment/js/java.js" />
       </list>
     </option>
   </component>
@@ -218,7 +210,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lastname_Firstname_Expressions_Assignment" />
+              <option name="myItemId" value="Langellier_Benjamin_Output_Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -232,25 +224,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lastname_Firstname_Expressions_Assignment" />
+              <option name="myItemId" value="Langellier_Benjamin_Expressions_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Langellier_Benjamin_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Langellier_Benjamin_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Langellier_Benjamin_Expressions_Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Langellier_Benjamin_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Langellier_Benjamin_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Langellier_Benjamin_Output_Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -677,15 +669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lastname_Firstname_Expressions_Assignment/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lastname_Firstname_Expressions_Assignment/js/java.js">
+    <entry file="file://$PROJECT_DIR$/Langellier_Benjamin_Expressions_Assignment/js/java.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5344418">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
