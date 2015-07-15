@@ -20,7 +20,7 @@ heightInches = prompt("What is your remainder of your height in inches?:");//use
 weight = prompt("What is your weight?:");//user input
 
 //calculations
-overallHeight = (heightFeet*12)+4;//calculating the height in inches for the final calculation
+overallHeight = heightFeet*12+heightInches;//calculating the height in inches for the final calculation
 overallWeight = weight*703;//putting weight into what the formula calls for
 lastHeight = overallHeight*overallHeight;//part 2 of the formula
 bMI = overallWeight/lastHeight;// final part
