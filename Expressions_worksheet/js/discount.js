@@ -16,5 +16,7 @@ salesTax        = prompt("What is the sales tax percentage?;");//user setting th
 //checking make sure prompts work
 //result variables
 
-var itemWithTax = originalPrice * salesTax;
-console.log(itemWithTax);
+discountPercent = 100 / discountPercent;// calculating the amount the discount will take off
+console.log(discountPercent);// making sure it works
+salesTax = 100 / salesTax;
+console.log(salesTax);
