@@ -16,7 +16,10 @@ salesTax        = prompt("What is the sales tax percentage?;");//user setting th
 //checking make sure prompts work
 //result variables
 
-discountPercent = 100 / discountPercent;// calculating the amount the discount will take off
-console.log(discountPercent);// making sure it works
-salesTax = 100 / salesTax;
-console.log(salesTax);
+var calculatedPercent = originalPrice - (discountPercent/100);// calculating the amount the discount will take off
+var calculatedTax = originalPrice + (salesTax/100);//finding out what the sales tax becomes
+var calculatedItem = originalPrice-calculatedPercent;
+var calculatedWithTax = originalPrice-calculatedPercent+calculatedTax;
+//console.log(calculatedPercent + " " + calculatedTax); //fixed result variables made sure that it worked.
+
+console.log("Your " + item + " " + "was originally $" + originalPrice + "but after a " + discountPercent + "% discount, " + "it is now $" + calculatedItem + " without tax, and $" + calculatedWithTax + " with tax.");
