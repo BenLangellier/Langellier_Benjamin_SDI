@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d45172ab-4dd6-4ea7-8890-5c67d6aadefa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Langellier_Benjamin_Expressions_Assignment/js/java.js" afterPath="$PROJECT_DIR$/Langellier_Benjamin_Expressions_Assignment/js/java.js" />
-    </list>
+    <list default="true" id="d45172ab-4dd6-4ea7-8890-5c67d6aadefa" name="Default" comment="" />
     <ignored path="Langellier_Benjamin_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
