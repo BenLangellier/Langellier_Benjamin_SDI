@@ -27,7 +27,6 @@ lastHeight = overallHeight*overallHeight;//part 2 of the formula
 bMI = Number(overallWeight)/Number(lastHeight);// final part
 
 //output
-console.log(overallHeight);
-console.log(lastHeight);
+
 console.log("Your BMI is " + bMI);//users Body Mass Index
 
