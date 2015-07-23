@@ -8,7 +8,7 @@
 
 var myAge;
 var siblingsAge;
-var legalAge = 18;
+var legalAge = prompt("What is the legal age to see an R rated movie?");
 var friends;
 var myAge = Number(prompt("How old are you?"));
 var siblingsAge = Number(prompt("How old is your sibling?"));
