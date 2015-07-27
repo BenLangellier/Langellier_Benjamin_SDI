@@ -1,26 +1,15 @@
-//Functions - Returning Values
+//Functions - Anonymous Function
 
 //console.log("Hello World!"); //works
-/*var width = 5;
 
-function calcArea(){
-    var width = 20;
-    var height = 30;
+//this is a function
+function calcAreaF(width, height){
     var area = width * height;
-    console.log(area);
+    return area;
 }
 
-console.log(width);
-calcArea();
-funcName(argument1, argument2);
-function  funcName(parameter1, parameter2){
-    //code the function runs
-}*/
-
-var total = calcArea(30, 20);
-function calcArea(w, h){
-    var area = w * h;
-    return area; //function spitting the info out
-
+//this is a procedure
+function calcAreaP(width, height){
+    var area = width * height;
+    console.log(area); // no return
 }
-console.log(total);
