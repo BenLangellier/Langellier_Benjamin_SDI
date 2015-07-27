@@ -1,4 +1,4 @@
-//Functions - Basic Structure
+//Functions - Function Execution
 
 //console.log("Hello World!"); //works
 
@@ -13,3 +13,6 @@ function calcArea(){
     console.log(area);
 }
 
+calcArea();
+calcArea();
+calcArea();
