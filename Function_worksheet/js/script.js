@@ -7,13 +7,16 @@
 //variables
 
 var radius = calculateCirc();
-var circumference = radius * 2;
+
+
+//functions
 
 function calculateCirc(){
 
     radius = prompt("What is the radius of the circle?");
+    circumference = radius * 2;
     console.log("The circumference of the circle is " + circumference + ".");
-    return radius;
+
 
 
 }
