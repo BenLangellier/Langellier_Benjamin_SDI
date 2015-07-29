@@ -6,12 +6,12 @@
 //Circumference of a circle
 //variables
 
-//var radius = calculateCirc();
+var radius = calculateCirc();
 
 
 //functions
 
-/*function calculateCirc(){
+function calculateCirc(){
 
     radius = prompt("What is the radius of the circle?");
     circumference = radius * 2;
@@ -19,9 +19,10 @@
 
 
 
-}*/
+}
 var victimWeight = 200; //victims weight in pounds
 var beeSting;
+
 function calculateBeeStings(victimWeight){
     beeSting = victimWeight * 8.666666667;
     console.log("It takes " + beeSting + " to kill this animal.");
