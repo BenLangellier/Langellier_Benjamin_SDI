@@ -5,7 +5,8 @@
 //variables
 var lotteryChoice = prompt("Do you want to play the Florida Lottery or the Powerball Lottery?\nType in full which one you want to play."); // Checking which lottery the user wants to play
 var florida;
-
+var powerballLotto;
+var finalNumber = Math.random() * (35-1) + 1;
 //functions
 
 function lotteryNumbers(lottery){
@@ -38,8 +39,29 @@ function floridaLottery(min, max, num) {
     return floridaArray;
 }
 
+function powerball(min,max,num){
+    if (lotteryChoice === "Powerball Lottery") {
+        var powerballArray = [];
+        var lastPowerNumber;
+        for(var index = 0; index < num; index++){
+            var powerNumbers = Math.random() * (max - min) + min;
+            lastPowerNumber = Math.random() * (35 - 1) + 1;
+            powerballArray[index] = Math.round(powerNumbers);
+            lastPowerNumber = Math.round(lastPowerNumber);
+
+
+
+        }
+    }return powerballArray;
+
+
+}
+
 
 //main code
 lotteryNumbers(lotteryChoice);
 florida = floridaLottery(1,53,6);
 console.log("Your Florida Lottery numbers are: " + florida + ".");
+finalNumber = Math.round(finalNumber);
+powerballLotto = powerball(1,59,5);
+console.log("Your Powerball Numbers are " + powerballLotto + " and the powerball number is " + finalNumber + "." );
