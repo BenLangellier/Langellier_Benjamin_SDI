@@ -4,7 +4,7 @@
 
 //variables
 var lotteryChoice = prompt("Do you want to play the Florida Lottery or the Powerball Lottery?\nType in full which one you want to play."); // Checking which lottery the user wants to play
-
+var florida;
 
 //functions
 
@@ -25,17 +25,21 @@ function lotteryNumbers(lottery){
 function floridaLottery(min, max, num) {
 
     if (lotteryChoice === "Florida Lottery") {// setting up the Florida Lottery choice this will contain 6 random numbers between 1 and 53 without any numbers repeating
-            var floridaArray = [];
-        for(var i = 0; i < num; i++);{
+
+        var floridaArray = [];
+
+        for (var i = 0; i < num; i++){
+
             var floridaNumbers = Math.random() * (max - min) + min; //setting up the random numbers for the 6 lotto numbers
             floridaArray[i] = Math.round(floridaNumbers);
         }
 
-    }return floridaArray;
+    }
+    return floridaArray;
 }
 
 
 //main code
 lotteryNumbers(lotteryChoice);
-floridaNumbers = floridaLottery(1,53,5);
-console.log(floridaNumbers);
+florida = floridaLottery(1,53,6);
+console.log("Your Florida Lottery numbers are: " + florida + ".");
