@@ -59,9 +59,16 @@ function powerball(min,max,num){
 
 
 //main code
-lotteryNumbers(lotteryChoice);
-florida = floridaLottery(1,53,6);
-console.log("Your Florida Lottery numbers are: " + florida + ".");
-finalNumber = Math.round(finalNumber);
-powerballLotto = powerball(1,59,5);
-console.log("Your Powerball Numbers are " + powerballLotto + " and the powerball number is " + finalNumber + "." );
+
+if(lotteryChoice === "Florida Lottery"){
+    lotteryNumbers(lotteryChoice);
+    florida = floridaLottery(1,53,6);
+    console.log("Your Florida Lottery numbers are: " + florida + ".");
+}
+if(lotteryChoice === "Powerball Lottery"){
+    finalNumber = Math.round(finalNumber);
+    powerballLotto = powerball(1,59,5);
+    console.log("Your Powerball Numbers are " + powerballLotto + " and the powerball number is " + finalNumber + "." );
+
+}
+
