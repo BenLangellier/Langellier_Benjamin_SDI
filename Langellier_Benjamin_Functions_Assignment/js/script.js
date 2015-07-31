@@ -42,14 +42,10 @@ function floridaLottery(min, max, num) {
 function powerball(min,max,num){
     if (lotteryChoice === "Powerball Lottery") {
         var powerballArray = [];
-        var lastPowerNumber;
+
         for(var index = 0; index < num; index++){
             var powerNumbers = Math.random() * (max - min) + min;
-            lastPowerNumber = Math.random() * (35 - 1) + 1;
             powerballArray[index] = Math.round(powerNumbers);
-            lastPowerNumber = Math.round(lastPowerNumber);
-
-
 
         }
     }return powerballArray;
